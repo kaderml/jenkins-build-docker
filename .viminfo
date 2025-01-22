@@ -1,0 +1,590 @@
+# Ce fichier viminfo a √©t√© g√©n√©r√© par Vim 8.2.
+# Vous pouvez l'√©diter, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a √©t√© √©crit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Derni√®res cha√Ænes de substitution :
+$
+
+# Historique ligne de commande (chronologie d√©croissante) :
+:wq
+|2,0,1737559552,,"wq"
+:q!
+|2,0,1737388104,,"q!"
+:q
+|2,0,1737378339,,"q"
+:set number
+|2,0,1737109108,,"set number"
+:wq!
+|2,0,1736762935,,"wq!"
+:wq!*
+|2,0,1734022654,,"wq!*"
+:w!
+|2,0,1733758502,,"w!"
+:q!!
+|2,0,1733758476,,"q!!"
+:q:
+|2,0,1733758472,,"q:"
+:q!:
+|2,0,1730982194,,"q!:"
+:wwq
+|2,0,1730824922,,"wwq"
+:.!q
+|2,0,1730814630,,".!q"
+:qa
+|2,0,1729597006,,"qa"
+::::::::qa
+|2,0,1729596990,,":::::::qa"
+:qa :qa
+|2,0,1729596838,,"qa :qa"
+
+# Historique cha√Æne de recherche (chronologie d√©croissante) :
+? @$
+|2,1,1734022525,,"@$"
+
+# Historique expression (chronologie d√©croissante) :
+
+# Historique ligne de saisie (chronologie d√©croissante) :
+
+# Historique Ligne de d√©bogage (chronologie d√©croissante) :
+
+# Registres :
+"0	LINE	0
+	abdou   ALL=(ALL:ALL) ALL
+|3,0,0,1,1,0,1734022525,"abdou   ALL=(ALL:ALL) ALL"
+"1	LINE	0
+	cker.build("kader/nginx")
+|3,0,1,1,1,0,1737559366,"cker.build(\"kader/nginx\")"
+"2	LINE	0
+	        sh ' java Main'
+|3,0,2,1,1,0,1737559334,"        sh ' java Main'"
+"3	LINE	0
+	       sh ' javac Main.java'
+|3,0,3,1,1,0,1737559280,"       sh ' javac Main.java'"
+"4	LINE	0
+	        git 'https://github.com/kaderml/jenkins-helloworld.git'
+|3,0,4,1,1,0,1737559210,"        git 'https://github.com/kaderml/jenkins-helloworld.git'"
+"5	LINE	0
+	abdou   ALL=(ALL:ALL) ALL
+|3,0,5,1,1,0,1733740487,"abdou   ALL=(ALL:ALL) ALL"
+"6	LINE	0
+	iblabla
+|3,0,6,1,1,0,1730824918,"iblabla"
+"a	CHAR	0
+	
+|3,0,10,0,1,0,1729596813,""
+"d	CHAR	0
+	1217
+<fbÄkbÄkbÄkbsqwxc@sb	ÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdvbbbbbvvfnnnnnc
+|3,0,13,0,1,0,1729596757,>1215
+|<"fbÄkbÄkbÄkbsqwxc@sb	ÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkuÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkd
+|<ÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄ
+|<kdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdÄkdvbbbbbvvfnnnnnc"
+""-	CHAR	0
+	d
+|3,1,36,0,1,0,1737559374,"d"
+
+# Marques dans le fichier :
+'0  13  4  ~/Jenkinsfile
+|4,48,13,4,1737559552,"~/Jenkinsfile"
+'1  3  8  ~/Dockerfile
+|4,49,3,8,1737559133,"~/Dockerfile"
+'2  14  0  ~/Jenkinsfile
+|4,50,14,0,1737388105,"~/Jenkinsfile"
+'3  11  0  ~/Jenkinsfile
+|4,51,11,0,1737388105,"~/Jenkinsfile"
+'4  14  0  ~/Jenkinsfile
+|4,52,14,0,1737379024,"~/Jenkinsfile"
+'5  11  0  ~/Jenkinsfile
+|4,53,11,0,1737379024,"~/Jenkinsfile"
+'6  11  0  ~/jenkinsfile
+|4,54,11,0,1737378347,"~/jenkinsfile"
+'7  1  0  ~/jenkinsfike
+|4,55,1,0,1737378339,"~/jenkinsfike"
+'8  1  39  /etc/environment
+|4,56,1,39,1737127325,"/etc/environment"
+'9  141  0  /usr/bin/deb-systemd-invoke
+|4,57,141,0,1737109135,"/usr/bin/deb-systemd-invoke"
+
+# Liste de sauts (le plus r√©cent en premier) :
+-'  13  4  ~/Jenkinsfile
+|4,39,13,4,1737559552,"~/Jenkinsfile"
+-'  14  0  ~/Jenkinsfile
+|4,39,14,0,1737559187,"~/Jenkinsfile"
+-'  3  8  ~/Dockerfile
+|4,39,3,8,1737559133,"~/Dockerfile"
+-'  3  8  ~/Dockerfile
+|4,39,3,8,1737559133,"~/Dockerfile"
+-'  4  0  ~/Dockerfile
+|4,39,4,0,1737559062,"~/Dockerfile"
+-'  4  0  ~/Dockerfile
+|4,39,4,0,1737559062,"~/Dockerfile"
+-'  11  0  ~/Jenkinsfile
+|4,39,11,0,1737388105,"~/Jenkinsfile"
+-'  11  0  ~/Jenkinsfile
+|4,39,11,0,1737388105,"~/Jenkinsfile"
+-'  11  0  ~/Jenkinsfile
+|4,39,11,0,1737379024,"~/Jenkinsfile"
+-'  11  0  ~/Jenkinsfile
+|4,39,11,0,1737379024,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1737378937,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1737378937,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1737378937,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1737378937,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1737378937,"~/Jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  11  0  ~/jenkinsfile
+|4,39,11,0,1737378347,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1737378343,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  0  ~/jenkinsfike
+|4,39,1,0,1737378339,"~/jenkinsfike"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+-'  1  39  /etc/environment
+|4,39,1,39,1737127325,"/etc/environment"
+
+# Historique des marques dans les fichiers (les plus r√©centes en premier) :
+
+> ~/Jenkinsfile
+	*	1737559551	0
+	"	13	4
+	^	13	5
+	.	13	4
+	+	14	0
+	+	4	0
+	+	3	12
+	+	5	21
+	+	7	4
+	+	8	0
+	+	6	34
+	+	7	0
+	+	8	19
+	+	12	4
+	+	14	0
+	+	9	1
+	+	6	36
+	+	7	0
+	+	6	7
+	+	9	57
+	+	11	0
+	+	11	22
+	+	13	4
+
+> ~/Dockerfile
+	*	1737559130	0
+	"	3	8
+	^	3	9
+	.	3	8
+	+	3	8
+
+> ~/jenkinsfile
+	*	1737378345	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	11	0
+
+> ~/jenkinsfike
+	*	1737378336	0
+	"	1	0
+
+> /etc/environment
+	*	1737127324	0
+	"	1	39
+	^	1	40
+	.	2	0
+	+	1	40
+	+	2	0
+
+> /usr/bin/deb-systemd-invoke
+	*	1737109112	0
+	"	141	0
+
+> /etc/default/jenkins
+	*	1736762933	0
+	"	75	31
+	^	75	32
+	.	75	31
+	+	74	17
+	+	75	31
+
+> /home/kader/sudo
+	*	1736762829	0
+	"	1	0
+
+> /etc/apache2/sites-available/example.com.conf
+	*	1734022654	0
+	"	3	33
+	^	3	34
+	.	3	33
+	+	3	33
+
+> /etc/apache2/sites-availible
+	*	1734022511	0
+	"	1	0
+
+> /etc/ssh/sshd_config
+	*	1734014240	0
+	"	40	0
+	^	40	0
+	.	39	19
+	+	14	7
+	+	38	0
+	+	37	16
+	+	39	19
+
+> /etc/host
+	*	1733833481	0
+	"	1	0
+
+> /etc/ansible/host
+	*	1733833467	0
+	"	1	0
+
+> /etc/ansible/hosts
+	*	1733833459	0
+	"	1	0
+
+> /etc/hosts
+	*	1733818795	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	6	23
+	+	4	0
+
+> /home/ansible/hosts
+	*	1733758771	0
+	"	1	0
+
+> /home/ansible/setup_apache.yaml
+	*	1733758716	0
+	"	34	0
+	^	34	0
+	.	33	18
+	+	33	18
+
+> /home/ansible
+	*	1733758532	0
+	"	1	0
+
+> /etc/sudoers
+	*	1733740527	0
+	"	46	0
+	^	46	0
+	.	45	29
+	+	4	0
+	+	57	88
+	+	66	3
+	+	67	1
+	+	48	0
+	+	45	29
+
+> /etc/sysctl.conf
+	*	1731598487	0
+	"	34	20
+	^	34	21
+	.	34	20
+	+	34	20
+
+> /etc/netplan/en0s1
+	*	1731595102	0
+	"	1	0
+
+> /home/kader/hostname
+	*	1731588153	0
+	"	1	0
+
+> /etc/netplan/interfaces.d/enp0s1
+	*	1731514299	0
+	"	3	0
+	^	3	0
+	.	2	22
+	+	2	22
+
+> /etc/netplan/interfaces.d/eth0
+	*	1731513616	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	1	9
+	+	2	19
+	+	1	10
+	+	2	11
+
+> /etc/netplan/interfaces.d
+	*	1731513132	0
+	"	1	0
+
+> /etc/fstab
+	*	1731080756	0
+	"	13	92
+	^	13	93
+	.	13	95
+	+	12	90
+	+	13	0
+	+	13	91
+	+	14	57
+	+	13	44
+	+	12	44
+	+	14	94
+	+	13	95
+
+> /boot/efi/bonjour
+	*	1731080464	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> /bonjour
+	*	1731077204	0
+	"	1	0
+
+> /usr/share/logwatch/default.conf/logwatch.conf
+	*	1730983973	0
+	"	1	0
+
+> /etc/logwatch/conf/logwatch.conf
+	*	1730983814	0
+	"	1	0
+
+> /etc/logwatch/default.conf/logwatch.conf
+	*	1730983802	0
+	"	1	0
+
+> /etc/logwatch/logwatch.conf
+	*	1730983435	0
+	"	1	0
+
+> /etc/rsyslog.conf
+	*	1730975030	0
+	"	20	0
+	^	34	79
+	.	25	0
+	+	61	24
+	+	66	25
+	+	61	22
+	+	8	42
+	+	12	0
+	+	10	0
+	+	8	0
+	+	37	0
+	+	34	78
+	+	20	0
+	+	21	0
+	+	24	0
+	+	25	0
+
+> /etc/default/locale
+	*	1730969141	0
+	"	2	0
+
+> /etc/default/local
+	*	1730969120	0
+	"	1	0
+
+> /etc/apache2/apache2.conf
+	*	1730824922	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /etc/apache2/conf/apache2.conf
+	*	1730824770	0
+	"	1	0
+
+> /etc/apache2/conf/apache2
+	*	1730824670	0
+	"	1	0
+
+> /etc/httpd/conf/httpd.conf
+	*	1730824634	0
+	"	1	0
+
+> /etc/cron.d/sysstat
+	*	1730814632	0
+	"	6	1
+	^	6	3
+	.	6	0
+	+	6	2
+	+	6	0
+
+> /etc/default/sysstat
+	*	1730814063	0
+	"	9	12
+	^	9	13
+	.	9	12
+	+	9	12

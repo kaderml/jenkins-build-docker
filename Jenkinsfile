@@ -1,11 +1,14 @@
 node {
     stage('Clone'){
-        git 'https://github.com/kaderml/jenkins-helloworld.git'
+	checkout scm
     }
-    stage('Build'){
-       sh ' javac Main.java'
+    stage('Build image'){
+	app = docker.build("kader/nginx")
     }
-    stage('Run'){
-        sh ' java Main'
+    stage('Run image'){
+	docker.build('kader/nginx').withRun('-p 8282:80') { c ->
+	sh 'docker ps'
+	sh 'curl localhost8282'	
+    }
     }
 }

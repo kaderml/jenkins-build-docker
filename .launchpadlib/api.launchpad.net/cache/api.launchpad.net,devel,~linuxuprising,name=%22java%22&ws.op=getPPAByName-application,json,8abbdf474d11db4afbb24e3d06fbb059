@@ -1,0 +1,22 @@
+status: 200
+date: Fri, 17 Jan 2025 15:19:27 GMT
+server: gunicorn
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: 6394e03793719e8d73f5a60b5439440e693c92f1
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: 6394e03793719e8d73f5a60b5439440e693c92f1
+x-request-id: 0c74390a-29f6-4670-af92-acec80dee5c5
+content-length: 3543
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~linuxuprising?name=%22java%22&ws.op=getPPAByName
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+{"self_link": "https://api.launchpad.net/devel/~linuxuprising/+archive/ubuntu/java", "web_link": "https://launchpad.net/~linuxuprising/+archive/ubuntu/java", "resource_type_link": "https://api.launchpad.net/devel/#archive", "owner_link": "https://api.launchpad.net/devel/~linuxuprising", "name": "java", "displayname": "Oracle Java", "reference": "~linuxuprising/ubuntu/java", "distribution_link": "https://api.launchpad.net/devel/ubuntu", "private": false, "suppress_subscription_notifications": false, "dependencies_collection_link": "https://api.launchpad.net/devel/~linuxuprising/+archive/ubuntu/java/dependencies", "description": "Oracle Java 11 (LTS) and 17 (LTS) installer for Ubuntu (21.10, 21.04, 20.04, 18.04, 16.04 and 14.04), Pop!_OS, Linux Mint and Debian.\n\nJava binaries are not hosted in this PPA due to licensing. The packages in this PPA download and install Oracle Java, so a working Internet connection is required.\n\nThe packages in this PPA are based on the WebUpd8 Oracle Java PPA packages: https://launchpad.net/~webupd8team/+archive/ubuntu/java\n\nInstallation instructions (with some tips), feedback, suggestions, bug reports etc.:\n\nOracle Java 11: https://www.linuxuprising.com/2019/06/new-oracle-java-11-installer-for-ubuntu.html\nOracle Java 17: https://www.linuxuprising.com/2021/09/how-to-install-oracle-java-17-lts-on.html\n\nImportant notice regarding Oracle Java 11 and 16: the Oracle JDK license has changed starting April 16, 2019. The new license permits certain uses, such as personal use and development use, at no cost -- but other uses authorized under prior Oracle JDK licenses may no longer be available. A FAQ is available here: https://www.oracle.com/technetwork/java/javase/overview/oracle-jdk-faqs.html . After this change, new Oracle Java 11 releases (11.0.3 and newer) require signing in using an Oracle account to download the binaries. This PPA has a new installer that requires the user to download the Oracle JDK 11 .tar.gz and place it in a folder, and only then install the \"oracle-java11-installer-local\" package. Details here:  https://www.linuxuprising.com/2019/06/new-oracle-java-11-installer-for-ubuntu.html\n\nFor Oracle Java 17, the license has changed, stating that JDK 17 binaries are free to use in production and free to redistribute, at no cost, under the Oracle No-Fee Terms and Conditions License.\n\nAbout Oracle Java 10, 12, 13, 14, 15 and 16: These versions have reached the end of public updates, therefore they are longer available for download. The Oracle Java 10/12/13/14/15 packages in this PPA no longer worked due to this, so I have removed them. Switch to Oracle Java 17 or OpenJDK 17 instead, which is long term support.\n\nCreated for users of https://www.linuxuprising.com/\n.", "signing_key_fingerprint": "1CC3D16E460A94EE17FE581CEA8CACC073C3DB2A", "require_virtualized": true, "build_debug_symbols": false, "publish_debug_symbols": false, "permit_obsolete_series_uploads": false, "authorized_size": 2048, "status": "Active", "external_dependencies": null, "metadata_overrides": null, "processors_collection_link": "https://api.launchpad.net/devel/~linuxuprising/+archive/ubuntu/java/processors", "enabled_restricted_processors_collection_link": "https://api.launchpad.net/devel/~linuxuprising/+archive/ubuntu/java/enabled_restricted_processors", "publishing_method": "Local", "repository_format": "Debian", "publish": true, "relative_build_score": 0, "http_etag": "\"53109f4438a7d51d54567495d4443034fd4c1787-f45897db3cc25c3d62824cb49bc4509df4675a51\""}
