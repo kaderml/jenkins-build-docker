@@ -6,9 +6,9 @@ node {
         app = docker.build("kader/nginx")
     }
     stage('Run image') {
-        app.withRun('-p 8383:80') { c ->
+        app.withRun('-p 8484:80') { c ->
             sh 'docker ps'
-            sh 'curl localhost:8383'
+            sh 'curl localhost:8484'
         }
     }
 }
