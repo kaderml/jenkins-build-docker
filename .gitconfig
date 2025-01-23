@@ -1,7 +1,0 @@
-[safe]
-	directory = /home/kader
-[init]
-	defaultBranch = main
-[user]
-	email = you@example.com
-	name = kaderml
