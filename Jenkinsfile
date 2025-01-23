@@ -11,10 +11,10 @@ node {
     }
     
     stage ('Run') {
-        img.withRun("--name run-$BUILD_ID -p 85:80") { c ->
+        img.withRun("--name run-$BUILD_ID -p 87:80") { c ->
             sh 'sleep 10' // Attendre que Nginx démarre
             sh 'docker logs run-$BUILD_ID' // Afficher les logs du conteneur
-            sh 'curl localhost:85'
+            sh 'curl localhost:87'
         }
     }
     stage('Push') {
